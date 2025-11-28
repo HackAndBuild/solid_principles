@@ -1,4 +1,4 @@
-package com.example.solid_principles.singleResponsePrinciple;
+package com.example.solid_principles.singleResponsePrinciple.goodExample;
 
 class UserRepository {
     //single response
